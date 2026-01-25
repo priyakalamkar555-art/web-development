@@ -9,6 +9,6 @@
 - Languages: Node.js, Python, PHP, SQL.
 
 A great website needs both a beautiful face (front-end) and a smart brain (backend).<br><br>
-### Beauty + Brain = Complete Web Development.
+### Beauty 💻 + Brain 🧠 = Complete Web Development.
 
 ![1stcontent](https://github.com/user-attachments/assets/73f5d3bc-c826-45aa-b46a-c8b852527eb6)
